@@ -2,7 +2,7 @@
 using Microsoft.Kinect;
 using Microsoft.Kinect.Toolkit.FaceTracking;
 
-namespace csFormDX
+namespace VRChat
 {
 	class KinectControl
 	{

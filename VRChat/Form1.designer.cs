@@ -1,4 +1,4 @@
-﻿namespace csFormDX
+﻿namespace VRChat
 {
     partial class Form1
     {

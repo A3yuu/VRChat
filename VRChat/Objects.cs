@@ -2,7 +2,7 @@
 using DxLibDLL;
 using System.Collections.Generic;
 
-namespace csFormDX
+namespace VRChat
 {
 	//クラス
 	abstract class Object

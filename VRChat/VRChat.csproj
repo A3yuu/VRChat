@@ -8,8 +8,8 @@
     <ProjectGuid>{87DD22BA-2975-4386-95D6-1599CCA35DFD}</ProjectGuid>
     <OutputType>WinExe</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>csFormDX</RootNamespace>
-    <AssemblyName>csFormDX</AssemblyName>
+    <RootNamespace>VRChat</RootNamespace>
+    <AssemblyName>VRChat</AssemblyName>
     <TargetFrameworkVersion>v4.6</TargetFrameworkVersion>
     <TargetFrameworkProfile>
     </TargetFrameworkProfile>

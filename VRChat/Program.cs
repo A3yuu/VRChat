@@ -5,7 +5,7 @@ using Microsoft.Kinect;
 using Microsoft.Kinect.Toolkit.FaceTracking;
 
 
-namespace csFormDX
+namespace VRChat
 {
     static class Program
 	{
@@ -169,7 +169,7 @@ namespace csFormDX
 					DX.DrawTriangle3D(DX.VGet(100, 0, 100), DX.VGet(100, 0, -100), DX.VGet(-100, 0, 100), DX.GetColor(15, 55, 150), 1);
 				}
 				//デバグ
-				DrawBone(player.framePoint);
+				//DrawBone(player.framePoint);
 				//DrawBone(BP_Vector);
 				//DrawBone(player.defaultFramePoint);
 				DX.DrawString(0, 0, kinectControl.getAnimationUnit(AnimationUnit.JawLower).ToString(), 0xFFFFFF);
