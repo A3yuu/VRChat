@@ -1,0 +1,4 @@
+DxLib_x64.dll
+FaceTrackData.dll
+FaceTrackLib.dll
+Microsoft.Kinect.Toolkit.FaceTracking.dll

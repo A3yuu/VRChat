@@ -1,0 +1,6 @@
+.git
+.vs
+bin
+*.suo
+lib/*.dll
+VRChat/obj
